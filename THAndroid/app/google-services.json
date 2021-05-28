@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139344598020",
+    "project_id": "thandroid-73cfd",
+    "storage_bucket": "thandroid-73cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139344598020:android:9a5c23e040bfa304af5151",
+        "android_client_info": {
+          "package_name": "com.example.thandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139344598020-l0tsq50kqfeg7d5qese57dqm6jvopni8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZb9Bt2fwCyJGThK1MQyYbvKqSov3EyjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139344598020-l0tsq50kqfeg7d5qese57dqm6jvopni8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
